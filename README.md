@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @skyhaibara;
-- 👀 I’m interested in CTF and Bolg-Built;
+- 👀 I’m interested in CTF and Blog-Built;
 - 🌱 I’m currently learning misc and crypto;
-- 📫 How to reach me my personal qq is 328830204 please have a good reason to reach me；
+- 📫 How to reach me：my personal qq is 328830204 and please have a good reason to reach me；
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyhaibara&theme=material-palenight)](https://github.com/skyhaibara/github-readme-stats)    <img src="hello.png" alt="hello" style="border-radius: 80%;" width="160" height="160" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyhaibara&theme=material-palenight)](https://github.com/skyhaibara/github-readme-stats)    <img src="hello.png" alt="hello" style="border-radius: 80%;" width="170" height="170" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skyhaibara&theme=rogue)](https://github.com/skyhaibara/github-readme-activity-graph)
 
