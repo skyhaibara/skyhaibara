@@ -5,7 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyhaibara&theme=material-palenight)](https://github.com/skyhaibara/github-readme-stats)    <img src="hello.png" alt="hello" style="border-radius: 80%;" width="170" height="170" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skyhaibara&theme=rogue)](https://github.com/skyhaibara/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen+Sans&pause=1000&color=7B22A9&center=true&vCenter=true&repeat=false&width=435&lines=Your+world+is+big%2C+I+become+dispensable)](https://git.io/typing-svg)
 
