@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning misc and crypto;
 - 📫 How to reach me：my personal QQ is 328830204 and please have a good reason to reach me；
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyhaibara&theme=material-palenight)](https://github-readme-stats-rnbxsqi1h-haibaras-projects-0c7de244.vercel.app)    <img src="hello.png" alt="hello" style="border-radius: 80%;" width="170" height="170" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyhaibara&theme=material-palenight)](https://github-readme-stats-five-iota-98.vercel.app)    <img src="hello.png" alt="hello" style="border-radius: 80%;" width="170" height="170" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skyhaibara&theme=rogue)](https://github.com/skyhaibara/github-readme-activity-graph)
 
